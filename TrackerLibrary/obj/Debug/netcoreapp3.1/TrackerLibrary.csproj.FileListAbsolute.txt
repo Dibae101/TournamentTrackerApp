@@ -1,0 +1,4 @@
+C:\Users\samar\Desktop\demofinal\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\samar\Desktop\demofinal\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\samar\Desktop\demofinal\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
+C:\Users\samar\Desktop\demofinal\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
